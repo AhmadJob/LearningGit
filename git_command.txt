@@ -63,7 +63,6 @@ git checkout -- file_1 file_2
  git tag -a v0.3 <commit hash>
  git checkout -b <branch name> <tag name>
  
-<<<<<<< HEAD
  git clone <URL>
  
  git remote
@@ -78,6 +77,3 @@ git checkout -- file_1 file_2
  git merge remotes/online_repo/master
  git pull <online repo>  <online branch >
  git branch -d rm  main  branch_1
-=======
- git clone <URL>
->>>>>>> parent of d138717 (push te onlone repo)
